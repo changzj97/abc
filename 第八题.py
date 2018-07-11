@@ -1,0 +1,5 @@
+a=input('三角形直角边长a:')
+b=input('三角形直角边长b:')
+c=(float(a)**2+float(b)**2)**(1/2)
+print('三角形斜边长c:')
+print(c)
